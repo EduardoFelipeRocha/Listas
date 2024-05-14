@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+}
+
+#container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+#cubo{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    color: rgb(0, 0, 0);
+    /* background-color: gray; */
+    list-style-type: circle;
+}
+#inf{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin-left: 10px;
+    border-radius: 7px;
+    padding: 3px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 3px;
+}
+
