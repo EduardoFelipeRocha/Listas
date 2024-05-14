@@ -1,5 +1,4 @@
 const lista = []
-
 function enviar() {
     let texto = document.getElementById("texto");
     if (texto.value) {
@@ -10,7 +9,6 @@ function enviar() {
     } else {
         alert("Você deve adicionar um texto.")
     }
-
 }
 function remover() {
     lista.pop()
