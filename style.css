@@ -12,7 +12,7 @@
     box-shadow: 1px 1.5px;
     background-color: gray;
     width: 700px;
-    margin: 0 auto;
+/*     margin: 0 auto; */
 }
 #cubo{
     display: flex;
